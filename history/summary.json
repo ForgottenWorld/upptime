@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/forum.forgottenworld.it",
     "slug": "forum",
     "status": "down",
-    "uptime": "45.90%",
-    "uptimeDay": "45.90%",
-    "uptimeWeek": "45.90%",
-    "uptimeMonth": "45.90%",
-    "uptimeYear": "45.90%",
+    "uptime": "0.83%",
+    "uptimeDay": "0.83%",
+    "uptimeWeek": "0.83%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "0.83%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-27": 2
+      "2020-12-28": 50,
+      "2020-12-27": 128
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/wiki.forgottenworld.it",
     "slug": "wiki",
     "status": "down",
-    "uptime": "1.18%",
-    "uptimeDay": "1.18%",
-    "uptimeWeek": "1.18%",
-    "uptimeMonth": "1.18%",
-    "uptimeYear": "1.18%",
-    "time": 500,
-    "timeDay": 500,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 517,
+    "timeDay": 517,
+    "timeWeek": 517,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2020-12-27": 2
+      "2020-12-28": 50,
+      "2020-12-27": 128
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/fwapi.forgottenworld.it",
     "slug": "mc-server-api",
     "status": "down",
-    "uptime": "88.17%",
-    "uptimeDay": "88.17%",
-    "uptimeWeek": "88.17%",
-    "uptimeMonth": "88.17%",
-    "uptimeYear": "88.17%",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-27": 0
+      "2020-12-28": 50,
+      "2020-12-27": 127
     }
   },
   {
@@ -70,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 77,
-    "timeWeek": 77,
-    "timeMonth": 77,
-    "timeYear": 77,
+    "time": 90,
+    "timeDay": 90,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   }
 ]
