@@ -5,12 +5,16 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Forum
+    method: HEAD
     url: https://forum.forgottenworld.it
   - name: Wiki
+    method: HEAD
     url: https://wiki.forgottenworld.it
-  - name: MC server Api
+  - name: MC server api
+    method: HEAD
     url: https://fwapi.forgottenworld.it
   - name: Home
+    method: HEAD
     url: https://home.forgottenworld.it
 
 status-website:
